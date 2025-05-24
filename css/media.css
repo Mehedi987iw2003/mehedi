@@ -1,0 +1,130 @@
+@media (max-width: 575.98px) {
+ 
+
+        .navbar-toggler:focus {
+            text-decoration: none;
+            outline: 0;
+            box-shadow: none;
+        }
+        .navbar-toggler{
+            border: none;
+        }
+            .navbar-nav .nav-item .nav-link {
+          
+            padding-bottom: 15px;
+        }
+            .navbar-collapse {
+        
+        padding-bottom: 50px;
+    }
+        .btns {
+        position: absolute;
+        right: 0;
+        top: 80%;
+        
+        transform: translatey(-50%);
+        left: 0;
+        padding-top: 80px;
+        padding-bottom: 50px;
+    }
+        .text_div {
+        padding-top: 44px;
+    }
+        .text_div h1 {
+        
+        font-size: 33px;
+        
+        
+       
+        padding-top: 3px;
+        padding-bottom: 10px;
+      
+        
+    }
+    .img_back {
+        padding-top: 26px;
+        padding-left: 0px;
+        padding-bottom: 0px;
+    }
+        .skill_heading {
+        padding-top: 36px;
+        padding-bottom: 38px;
+        text-align: center;
+    }
+    .skill_div {
+    padding: 36px 19px;
+    
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+        .skill_div:hover {
+        transform: none;
+    }
+    
+ 
+        .about_heading {
+        padding-top: 67px;
+        text-align: center;
+    }
+        .main_header {
+    
+        padding-top: 55px;
+        padding-bottom: 57px;
+    }
+    .main_header h4{
+        padding-bottom: 40px;
+    }
+        .big_header h1 {
+        padding-right: 0px;
+      
+        font-size: 51px;
+        text-align: center;
+        padding-top: 62px;
+    }
+        .clint_heading {
+        padding-top: 41px;
+    }
+        .clint_heading h1 {
+        
+        font-size: 34px;
+        
+        padding-bottom: 29px;
+        padding-top: 21px;
+    }
+    .review_div{
+        margin-bottom: 40px;
+    }
+        #bg {
+        
+        padding-bottom: 17px;
+    }
+        .form_heading {
+        padding-top: 74px;
+    }
+        .clint_heading h3 {
+         text-align: center;
+    }
+        .form_heading h1 {
+
+        padding-top: 1px;
+        padding-bottom: 6px;
+    }
+        .last_heading {
+        padding: 20px 29px;
+    }
+    .last_heading h1{
+      line-height: 30px;
+    }
+        .last_heading2 h1 {
+        
+        font-weight: 400px;
+        line-height: 32px;
+    
+    }
+            
+       
+        
+         
+  
+            
+}
